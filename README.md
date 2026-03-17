@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.plur1bu5.dev/assets/img/avatar.jpg" width="120" style="border-radius: 50%;" />
-
 ```
 ██████╗ ██╗     ██╗   ██╗██████╗  ██╗██████╗ ██╗   ██╗███████╗
 ██╔══██╗██║     ██║   ██║██╔══██╗███║██╔══██╗██║   ██║██╔════╝
@@ -11,7 +9,7 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═╝╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-*penetration tester · researcher · INPT · CPTS*
+*penetration tester · researcher · CPTS*
 
 [![Blog](https://img.shields.io/badge/blog-plur1bu5.dev-black?style=flat-square&logo=ghost)](https://plur1bu5.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-mohamed--anaddam-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-anaddam/)
@@ -45,4 +43,4 @@ whoami
 ```
 ~/writing → plur1bu5.dev
 ```
-`htb` `active-directory` `privilege-escalation` `dfir` `aisec` `ctf` `red-team`
+`htb` `active-directory` `ctf` `red-team`
