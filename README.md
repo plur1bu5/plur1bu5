@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-██████╗ ██╗     ██╗   ██╗██████╗  ██╗██████╗ ██╗   ██╗███████╗
-██╔══██╗██║     ██║   ██║██╔══██╗███║██╔══██╗██║   ██║██╔════╝
-██████╔╝██║     ██║   ██║██████╔╝╚██║██████╔╝██║   ██║███████╗
-██╔═══╝ ██║     ██║   ██║██╔══██╗ ██║██╔══██╗██║   ██║╚════██║
-██║     ███████╗╚██████╔╝██║  ██║ ██║██████╔╝╚██████╔╝███████║
-╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═╝╚═════╝  ╚═════╝ ╚══════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=80&lines=plur1bu5" alt="plur1bu5" />
 
-*penetration tester · researcher · CPTS*
+*red teamer · penetration tester · researcher · CPTS*
 
-[![Blog](https://img.shields.io/badge/blog-plur1bu5.dev-black?style=flat-square&logo=ghost)](https://plur1bu5.dev)
+[![Blog](https://img.shields.io/badge/blog-plur1bu5.dev-39FF14?style=flat-square&logo=ghost&logoColor=white&labelColor=0d0d0d)](https://plur1bu5.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-mohamed--anaddam-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-anaddam/)
 
 </div>
