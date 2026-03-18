@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=800&color=FF3131&center=true&vCenter=true&width=700&height=100&lines=plur1bu5;active+operation;do+not+disturb;hacking..." alt="plur1bu5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=plur1bu5;red+teamer;pentester;researcher" alt="plur1bu5" />
 
 [![Blog](https://img.shields.io/badge/blog-plur1bu5.dev-39FF14?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0d0d0d)](https://plur1bu5.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anaddam/)
