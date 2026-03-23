@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="458" viewBox="0 0 620 458">
+  <rect width="620" height="458" rx="8" fill="#0d0d0d"/>
+  <rect x="0" y="0" width="620" height="28" rx="8" fill="#1a1a1a"/>
+  <circle cx="16" cy="14" r="5" fill="#ff5f57"/>
+  <circle cx="32" cy="14" r="5" fill="#febc2e"/>
+  <circle cx="48" cy="14" r="5" fill="#28c840"/>
+  <text x="310" y="18" font-family="monospace" font-size="11" fill="#666" text-anchor="middle">plur1bu5 — bash</text>
+  <style>
+    .prompt { fill: #39FF14; }
+    .text { fill: #e0e0e0; }
+    .cursor { fill: #39FF14; }
+  </style>
+  <text x="20" y="48" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">whoami</tspan></text>
+  <text x="36" y="70" font-family="Fira Code,monospace" font-size="13" class="text">plur1bu5 — red teamer · pentester · researcher</text>
+  <text x="36" y="92" font-family="Fira Code,monospace" font-size="13" class="text"></text>
+  <text x="20" y="114" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">nmap -sV --open plur1bu5.dev</tspan></text>
+  <text x="36" y="136" font-family="Fira Code,monospace" font-size="13" class="text">PORT     STATE  SERVICE</text>
+  <text x="36" y="158" font-family="Fira Code,monospace" font-size="13" class="text">443/tcp  open   https → blog active</text>
+  <text x="36" y="180" font-family="Fira Code,monospace" font-size="13" class="text"></text>
+  <text x="20" y="202" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">enum4linux -a github.com/plur1bu5</tspan></text>
+  <text x="36" y="224" font-family="Fira Code,monospace" font-size="13" class="text">[+] public_repos  : 8</text>
+  <text x="36" y="246" font-family="Fira Code,monospace" font-size="13" class="text">[+] total_stars   : 9</text>
+  <text x="36" y="268" font-family="Fira Code,monospace" font-size="13" class="text">[+] followers     : 0</text>
+  <text x="36" y="290" font-family="Fira Code,monospace" font-size="13" class="text"></text>
+  <text x="20" y="312" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">cat /etc/targets</tspan></text>
+  <text x="36" y="334" font-family="Fira Code,monospace" font-size="13" class="text">AD · web · cloud · k8s · CI/CD</text>
+  <text x="36" y="356" font-family="Fira Code,monospace" font-size="13" class="text"></text>
+  <text x="20" y="378" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">date</tspan></text>
+  <text x="36" y="400" font-family="Fira Code,monospace" font-size="13" class="text">2026-03-23 14:52 UTC</text>
+  <text x="36" y="422" font-family="Fira Code,monospace" font-size="13" class="text"></text>
+  <text x="20" y="444" font-family="Fira Code,monospace" font-size="13"><tspan class="prompt">$ </tspan><tspan class="text">▌</tspan></text>
+</svg>
